@@ -1,0 +1,20 @@
+{
+   "applinks": {
+       "apps": [],
+       "details": [
+           {
+               "appID": "AY9ZRF7357.com.nanyidian.nydTSX.debug",
+               "paths": [ "*"]
+           },
+           {
+               "appID": "AY9ZRF7357.com.nanyidian.nydTSX-Staging",
+               "paths": [ "*"]
+           },
+           {
+               "appID": "AY9ZRF7357.com.nanyidian.nydTSX",
+               "paths": [ "*"]
+           },
+
+       ]
+    }
+}
