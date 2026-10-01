@@ -28,6 +28,9 @@
         "type": "git",
         "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
     },
+    "engines": {
+        "node": "24.x"
+    },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
         "bootstrap": "4.3.1",
